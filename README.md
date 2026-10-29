@@ -1,2 +1,2 @@
-# ScriptNyelvekPython
-Script nyelvek – Python beadandó
+Simon Zsolt
+ETC66T
